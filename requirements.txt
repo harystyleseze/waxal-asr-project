@@ -1,0 +1,14 @@
+transformers
+datasets
+accelerate
+evaluate
+jiwer
+torchaudio
+librosa
+soundfile
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+pyyaml
