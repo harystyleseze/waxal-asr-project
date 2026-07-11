@@ -1,0 +1,16 @@
+# environments
+.venv/
+
+# data
+data/raw/
+data/processed/
+
+# models
+checkpoints/
+
+# caches
+.cache/
+__pycache__/
+
+# notebooks
+.ipynb_checkpoints/

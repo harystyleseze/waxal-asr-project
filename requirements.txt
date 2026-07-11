@@ -4,6 +4,7 @@ accelerate
 evaluate
 jiwer
 torchaudio
+torchcodec
 librosa
 soundfile
 pandas
@@ -12,3 +13,5 @@ matplotlib
 seaborn
 tqdm
 pyyaml
+ipywidgets
+ffmpeg
